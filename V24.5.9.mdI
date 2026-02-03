@@ -1,0 +1,20 @@
+✨ New
+	•	Refined path prediction for close-range vehicles
+	•	Improved handling of quick lane merges
+	•	Enhanced NeuroSign UI responsiveness
+
+🛠 Improvements
+	•	Reduced steering micro-corrections
+	•	Smoother stop-and-go traffic behavior
+	•	More consistent speed matching
+
+🐞 Fixes
+	•	Fixed occasional late braking in slow traffic
+	•	Resolved rare UI refresh glitch
+	•	Minor stability and performance fixes
+
+⸻
+
+📌 Notes
+
+This update builds on 24.5.8, focusing on precision, smooth control, and UI stability rather than major feature changes
