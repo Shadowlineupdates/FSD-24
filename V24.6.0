@@ -1,0 +1,29 @@
+## FSD 24.6.0
+
+### ✨ New
+- Enhanced mid-range trajectory planning for complex urban scenarios  
+- Adaptive confidence weighting for multi-agent interactions  
+- Predictive maneuver previews during lane changes  
+- Expanded planner awareness in mixed-speed traffic environments  
+
+### 🛠 Improvements
+- Refined behavior planning logic for unprotected turns  
+- Improved lateral control stability on sustained curves  
+- More accurate intent prediction for surrounding vehicles  
+- Reduced end-to-end latency across perception, planning, and control  
+- Improved fallback behavior under fluctuating sensor confidence  
+
+### 🐞 Fixes
+- Fixed rare planner indecision during dense merge scenarios  
+- Resolved intermittent UI overlay mismatches  
+- Corrected delayed replans under rapid constraint changes  
+- General performance and stability optimizations  
+
+### ⚙️ Technical Notes
+- Planner cost functions retuned for smoother decision transitions  
+- Control loop robustness improved under variable traffic density  
+- UI and control thread synchronization optimized  
+- Reduced unnecessary replans in stable driving conditions  
+
+### 📌 Summary
+FSD 24.6.0 advances planning intelligence and system coordination, prioritizing smoother control behavior and improved decision-making in high-complexity driving environments.
