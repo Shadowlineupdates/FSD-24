@@ -1,3 +1,3 @@
 # FSD System 
 
-###### (this preview is private)
+###### (Coming soon details)
